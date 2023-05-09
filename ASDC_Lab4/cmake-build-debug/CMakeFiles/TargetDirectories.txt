@@ -1,0 +1,3 @@
+D:/ASDC_labs/ASDC_Lab4/cmake-build-debug/CMakeFiles/ASDC_Lab4.dir
+D:/ASDC_labs/ASDC_Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ASDC_labs/ASDC_Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
